@@ -188,9 +188,9 @@ This project was completed as part of a **one-day intensive bootcamp** to learn 
 ## 📫 Contact
 
 **Your Name**  
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@YOUR_USERNAME]([https://github.com/YOUR_USERNAME](https://github.com/epandaashu-coder))
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/ashutosh-panda-b33939182)
+- Email: e.pandaashu@gmail.com
 
 ## 🙏 Acknowledgments
 
